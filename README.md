@@ -28,6 +28,6 @@ Wiki Links:
 
 [User Stories](https://github.com/Trevor-Walton-Moore/Crunchy/wiki/User-Stories)
 
-
+[Redux Store (State Shape)] (https://github.com/Trevor-Walton-Moore/Crunchy/wiki/Redux-Store-(State-Shape))
 
 To experience Crunchy, click the live link, then the account button in the top-right corner to explore as a demo user!
